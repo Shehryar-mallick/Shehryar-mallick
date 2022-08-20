@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+https://github.com/Shehryar-mallick/Shehryar-mallick/blob/main/ShehryBanner.png
+<img src="https://github.com/Shehryar-mallick/Shehryar-mallick/blob/main/ShehryBanner.png" alt="banner that says Shehryar Mallick - computer systems engineer, data scientist, data engineer">
+
 <!--
 **Shehryar-mallick/Shehryar-mallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
