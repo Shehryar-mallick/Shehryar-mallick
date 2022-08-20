@@ -1,10 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% Height: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% />
 </div>  
-
-
-<img src="https://github.com/Shehryar-mallick/Shehryar-mallick/blob/main/intro.png" alt="banner that says Shehryar Mallick - computer systems engineer, data scientist, data engineer">
-  
 
 ### <div align="center">I'm Shehryar Mallick, a computer systems engineer🎓 , an aspiring data scientist and data engineer 💻, I'm curious to learn about diverse technologies and build solutions that solve real world problems.</div>  
   
@@ -76,6 +72,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shehryar-mallick&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shehryar-mallick&show_icons=true&count_private=true&hide_border=true" align="center" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehryar-mallick&hide_border=true&layout=compact" align="left" />  
+
+</div> 
